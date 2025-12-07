@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12bf297-8527-49c6-b9b1-876752f30dc8" name="Changes" comment="step 1">
-      <change afterPath="$PROJECT_DIR$/day2_content_based.py" afterDir="false" />
+    <list default="true" id="e12bf297-8527-49c6-b9b1-876752f30dc8" name="Changes" comment="feat: add basic content-based movie recommender using TF-IDF">
+      <change afterPath="$PROJECT_DIR$/day3_collab_svd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,7 @@
       <updated>1764850986768</updated>
       <workItem from="1764850988020" duration="8303000" />
       <workItem from="1764935663521" duration="2000" />
-      <workItem from="1764942583576" duration="5005000" />
+      <workItem from="1764942583576" duration="6676000" />
     </task>
     <task id="LOCAL-00001" summary="step 1">
       <option name="closed" value="true" />
@@ -99,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764862688591</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: add basic content-based movie recommender using TF-IDF">
+      <option name="closed" value="true" />
+      <created>1765034131902</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765034131902</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="step 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="step 1" />
+    <MESSAGE value="feat: add basic content-based movie recommender using TF-IDF" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add basic content-based movie recommender using TF-IDF" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/movie_recommend$test_pandas.coverage" NAME="test_pandas Coverage Results" MODIFIED="1764851696765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
